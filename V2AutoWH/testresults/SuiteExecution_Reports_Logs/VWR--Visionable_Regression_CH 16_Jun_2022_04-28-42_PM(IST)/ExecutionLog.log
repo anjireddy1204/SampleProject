@@ -1,0 +1,265 @@
+16/06/2022 16:24:32 AutomationLog INFO:=> Initializing keywords
+16/06/2022 16:24:32 AutomationLog : =========================================================
+16/06/2022 16:24:32 AutomationLog : Executing---VWR_01_Verify_QueueCreateUpdateDelete Test Case
+16/06/2022 16:24:32 AutomationLog : Navigating to (https://v2solutions-alpha.visionable.com/) Site
+16/06/2022 16:24:32 AutomationLog : No Opened Browser Available, Opening New one
+16/06/2022 16:24:46 AutomationLog : Opening: CHROME 102.0.5005.115 Browser
+16/06/2022 16:24:56 AutomationLog : PASS
+16/06/2022 16:24:56 AutomationLog : Waiting for CREATEACCOUNT_LINK element to Appear.
+16/06/2022 16:24:56 AutomationLog : Waiting for Max 60 seconds to Appear CREATEACCOUNT_LINK Element which may NOT Present on Page
+16/06/2022 16:24:56 AutomationLog : CREATEACCOUNT_LINK Element is Now Present on Page, Moving Ahead
+16/06/2022 16:24:56 AutomationLog : PASS
+16/06/2022 16:24:56 AutomationLog : Entering: "odosmith@yopmail.com" text in USERNAME_TEXTFIELD Field
+16/06/2022 16:25:01 AutomationLog : PASS
+16/06/2022 16:25:01 AutomationLog : Entering: "Test@12345" text in PASSWORD_TEXTFIELD Field
+16/06/2022 16:25:05 AutomationLog : PASS
+16/06/2022 16:25:05 AutomationLog : Performing Click action on LOGIN_BUTTON
+16/06/2022 16:25:14 AutomationLog : PASS
+16/06/2022 16:25:14 AutomationLog : Waiting for WELCOMEMESSAGE_HEADER element to Appear.
+16/06/2022 16:25:14 AutomationLog : Waiting for Max 60 seconds to Appear WELCOMEMESSAGE_HEADER Element which may NOT Present on Page
+16/06/2022 16:25:14 AutomationLog : WELCOMEMESSAGE_HEADER Element is Now Present on Page, Moving Ahead
+16/06/2022 16:25:14 AutomationLog : PASS
+16/06/2022 16:25:14 AutomationLog : Performing Click action on QUEUEMANAGER_LINK
+16/06/2022 16:25:21 AutomationLog : PASS
+16/06/2022 16:25:21 AutomationLog : Waiting for QUEUEMANAGER_HEADER element to Appear.
+16/06/2022 16:25:21 AutomationLog : Waiting for Max 60 seconds to Appear QUEUEMANAGER_HEADER Element which may NOT Present on Page
+16/06/2022 16:25:21 AutomationLog : QUEUEMANAGER_HEADER Element is Now Present on Page, Moving Ahead
+16/06/2022 16:25:21 AutomationLog : PASS
+16/06/2022 16:25:21 AutomationLog : Verifying QUEUEMANAGER_HEADER Text on the Page
+16/06/2022 16:25:23 AutomationLog : Actual is-> Queue Manager AND Expected is->Queue Manager
+16/06/2022 16:25:23 AutomationLog : PASS
+16/06/2022 16:25:23 AutomationLog : Performing Click action on NEWQUEUE_BUTTON
+16/06/2022 16:25:26 AutomationLog : PASS
+16/06/2022 16:25:26 AutomationLog : Waiting for NEWQUEUE_TITLE element to Appear.
+16/06/2022 16:25:26 AutomationLog : Waiting for Max 60 seconds to Appear NEWQUEUE_TITLE Element which may NOT Present on Page
+16/06/2022 16:25:26 AutomationLog : NEWQUEUE_TITLE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:25:26 AutomationLog : PASS
+16/06/2022 16:25:26 AutomationLog : Verifying NEWQUEUE_TITLE Text on the Page
+16/06/2022 16:25:29 AutomationLog : Actual is-> New Queue AND Expected is->New Queue
+16/06/2022 16:25:29 AutomationLog : PASS
+16/06/2022 16:25:29 AutomationLog : Performing Click action on SAVE_BUTTON
+16/06/2022 16:25:31 AutomationLog : PASS
+16/06/2022 16:25:31 AutomationLog : Waiting for UMUSTSPECIFYNAME_VALIDMESSAGE element to Appear.
+16/06/2022 16:25:31 AutomationLog : Waiting for Max 60 seconds to Appear UMUSTSPECIFYNAME_VALIDMESSAGE Element which may NOT Present on Page
+16/06/2022 16:25:31 AutomationLog : UMUSTSPECIFYNAME_VALIDMESSAGE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:25:31 AutomationLog : PASS
+16/06/2022 16:25:31 AutomationLog : Verifying UMUSTSPECIFYNAME_VALIDMESSAGE Text on the Page
+16/06/2022 16:25:34 AutomationLog : Actual is-> You must specify a name AND Expected is->You must specify a name
+16/06/2022 16:25:34 AutomationLog : PASS
+16/06/2022 16:25:34 AutomationLog : Performing Click action on QUEUE_OK_BUTTON
+16/06/2022 16:25:37 AutomationLog : PASS
+16/06/2022 16:25:37 AutomationLog : Waiting for NEWQUEUE_TITLE element to Appear.
+16/06/2022 16:25:37 AutomationLog : Waiting for Max 60 seconds to Appear NEWQUEUE_TITLE Element which may NOT Present on Page
+16/06/2022 16:25:37 AutomationLog : NEWQUEUE_TITLE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:25:37 AutomationLog : PASS
+16/06/2022 16:25:37 AutomationLog : Entering: "AutoQueue" text in QUEUENAME_TEXTFIELD Field
+16/06/2022 16:25:41 AutomationLog : PASS
+16/06/2022 16:25:41 AutomationLog : Entering: "Description" text in QUEUEDESC_TEXTFIELD Field
+16/06/2022 16:25:45 AutomationLog : PASS
+16/06/2022 16:25:45 AutomationLog : Performing Click action on SAVE_BUTTON
+16/06/2022 16:25:47 AutomationLog : PASS
+16/06/2022 16:25:47 AutomationLog : Waiting for SEARCHQUEUE_TEXTFIELD element to Appear.
+16/06/2022 16:25:47 AutomationLog : Waiting for Max 60 seconds to Appear SEARCHQUEUE_TEXTFIELD Element which may NOT Present on Page
+16/06/2022 16:25:47 AutomationLog : SEARCHQUEUE_TEXTFIELD Element is Now Present on Page, Moving Ahead
+16/06/2022 16:25:47 AutomationLog : PASS
+16/06/2022 16:25:47 AutomationLog : Entering: "AutoQueue" text in SEARCHQUEUE_TEXTFIELD Field
+16/06/2022 16:25:49 AutomationLog : PASS
+16/06/2022 16:25:49 AutomationLog : Verifying CLINICNAMEE_TEXT Text on the Page
+16/06/2022 16:25:52 AutomationLog : Actual is-> AutoQueue AND Expected is->AutoQueue
+16/06/2022 16:25:52 AutomationLog : PASS
+16/06/2022 16:25:52 AutomationLog : Verifying CLINICDESCRIPTION_TEXT Text on the Page
+16/06/2022 16:25:54 AutomationLog : Actual is-> Description AND Expected is->Description
+16/06/2022 16:25:54 AutomationLog : PASS
+16/06/2022 16:25:54 AutomationLog : Performing Click action on EDITCLINIC_BUTTON
+16/06/2022 16:25:55 AutomationLog : PASS
+16/06/2022 16:25:55 AutomationLog : Waiting for UPDATEQUEUE_HEADER element to Appear.
+16/06/2022 16:25:55 AutomationLog : Waiting for Max 60 seconds to Appear UPDATEQUEUE_HEADER Element which may NOT Present on Page
+16/06/2022 16:25:55 AutomationLog : UPDATEQUEUE_HEADER Element is Now Present on Page, Moving Ahead
+16/06/2022 16:25:55 AutomationLog : PASS
+16/06/2022 16:25:55 AutomationLog : Verifying UPDATEQUEUE_HEADER Text on the Page
+16/06/2022 16:25:58 AutomationLog : Actual is-> Update Queue AND Expected is->Update Queue
+16/06/2022 16:25:58 AutomationLog : PASS
+16/06/2022 16:25:58 AutomationLog : Clearing Text Field
+16/06/2022 16:25:59 AutomationLog : PASS
+16/06/2022 16:25:59 AutomationLog : Clearing Text Field
+16/06/2022 16:26:00 AutomationLog : PASS
+16/06/2022 16:26:00 AutomationLog : Entering: "UpdatedAutoQueue" text in QUEUENAME_TEXTFIELD Field
+16/06/2022 16:26:05 AutomationLog : PASS
+16/06/2022 16:26:05 AutomationLog : Entering: "DescriptionUpdated" text in QUEUEDESC_TEXTFIELD Field
+16/06/2022 16:26:10 AutomationLog : PASS
+16/06/2022 16:26:10 AutomationLog : Performing Click action on SAVE_BUTTON
+16/06/2022 16:26:13 AutomationLog : PASS
+16/06/2022 16:26:13 AutomationLog : Waiting for SEARCHQUEUE_TEXTFIELD element to Appear.
+16/06/2022 16:26:13 AutomationLog : Waiting for Max 60 seconds to Appear SEARCHQUEUE_TEXTFIELD Element which may NOT Present on Page
+16/06/2022 16:26:13 AutomationLog : SEARCHQUEUE_TEXTFIELD Element is Now Present on Page, Moving Ahead
+16/06/2022 16:26:13 AutomationLog : PASS
+16/06/2022 16:26:13 AutomationLog : Clearing Text Field
+16/06/2022 16:26:14 AutomationLog : PASS
+16/06/2022 16:26:14 AutomationLog : Entering: "UpdatedAutoQueue" text in SEARCHQUEUE_TEXTFIELD Field
+16/06/2022 16:26:16 AutomationLog : PASS
+16/06/2022 16:26:16 AutomationLog : Verifying CLINICNAMEE_TEXT Text on the Page
+16/06/2022 16:26:18 AutomationLog : Actual is-> UpdatedAutoQueue AND Expected is->UpdatedAutoQueue
+16/06/2022 16:26:18 AutomationLog : PASS
+16/06/2022 16:26:18 AutomationLog : Verifying CLINICDESCRIPTION_TEXT Text on the Page
+16/06/2022 16:26:21 AutomationLog : Actual is-> DescriptionUpdated AND Expected is->DescriptionUpdated
+16/06/2022 16:26:21 AutomationLog : PASS
+16/06/2022 16:26:21 AutomationLog : Performing Click action on COPYCLINIC_BUTTON
+16/06/2022 16:26:22 AutomationLog : PASS
+16/06/2022 16:26:22 AutomationLog : Performing Click action on SAVE_BUTTON
+16/06/2022 16:26:25 AutomationLog : PASS
+16/06/2022 16:26:25 AutomationLog : Waiting for SEARCHQUEUE_TEXTFIELD element to Appear.
+16/06/2022 16:26:25 AutomationLog : Waiting for Max 60 seconds to Appear SEARCHQUEUE_TEXTFIELD Element which may NOT Present on Page
+16/06/2022 16:26:25 AutomationLog : SEARCHQUEUE_TEXTFIELD Element is Now Present on Page, Moving Ahead
+16/06/2022 16:26:25 AutomationLog : PASS
+16/06/2022 16:26:25 AutomationLog : Clearing Text Field
+16/06/2022 16:26:26 AutomationLog : PASS
+16/06/2022 16:26:26 AutomationLog : Entering: "Copy of UpdatedAutoQueue" text in SEARCHQUEUE_TEXTFIELD Field
+16/06/2022 16:26:28 AutomationLog : PASS
+16/06/2022 16:26:28 AutomationLog : Verifying CLINICNAMEE_TEXT Text on the Page
+16/06/2022 16:26:31 AutomationLog : Actual is-> Copy of UpdatedAutoQueue AND Expected is->Copy of UpdatedAutoQueue
+16/06/2022 16:26:31 AutomationLog : PASS
+16/06/2022 16:26:31 AutomationLog : Performing Click action on DELETECLINIC_BUTTON
+16/06/2022 16:26:32 AutomationLog : PASS
+16/06/2022 16:26:32 AutomationLog : Waiting for DELETETHISCLINIC_HEADER element to Appear.
+16/06/2022 16:26:32 AutomationLog : Waiting for Max 60 seconds to Appear DELETETHISCLINIC_HEADER Element which may NOT Present on Page
+16/06/2022 16:26:32 AutomationLog : DELETETHISCLINIC_HEADER Element is Now Present on Page, Moving Ahead
+16/06/2022 16:26:32 AutomationLog : PASS
+16/06/2022 16:26:32 AutomationLog : Entering: "DELETE" text in DELETE_TEXTFIELD Field
+16/06/2022 16:26:36 AutomationLog : PASS
+16/06/2022 16:26:36 AutomationLog : Performing Click action on YESDELETEIT_BUTTON
+16/06/2022 16:26:39 AutomationLog : PASS
+16/06/2022 16:26:39 AutomationLog : Waiting for Page to load.
+16/06/2022 16:26:41 AutomationLog : PASS
+16/06/2022 16:26:41 AutomationLog : Waiting for NOQUEUES_TEXT element to Appear.
+16/06/2022 16:26:41 AutomationLog : Waiting for Max 60 seconds to Appear NOQUEUES_TEXT Element which may NOT Present on Page
+16/06/2022 16:26:41 AutomationLog : NOQUEUES_TEXT Element is Now Present on Page, Moving Ahead
+16/06/2022 16:26:41 AutomationLog : PASS
+16/06/2022 16:26:41 AutomationLog : Clearing Text Field
+16/06/2022 16:26:42 AutomationLog : PASS
+16/06/2022 16:26:42 AutomationLog : Entering: "UpdatedAutoQueue" text in SEARCHQUEUE_TEXTFIELD Field
+16/06/2022 16:26:44 AutomationLog : PASS
+16/06/2022 16:26:44 AutomationLog : Performing Click action on DELETECLINIC_BUTTON
+16/06/2022 16:26:45 AutomationLog : PASS
+16/06/2022 16:26:45 AutomationLog : Waiting for DELETETHISCLINIC_HEADER element to Appear.
+16/06/2022 16:26:45 AutomationLog : Waiting for Max 60 seconds to Appear DELETETHISCLINIC_HEADER Element which may NOT Present on Page
+16/06/2022 16:26:46 AutomationLog : DELETETHISCLINIC_HEADER Element is Now Present on Page, Moving Ahead
+16/06/2022 16:26:46 AutomationLog : PASS
+16/06/2022 16:26:46 AutomationLog : Verifying DELETETHISCLINIC_HEADER Text on the Page
+16/06/2022 16:26:48 AutomationLog : Actual is-> Are you sure you want to delete this Queue? AND Expected is->Are you sure you want to delete this Queue?
+16/06/2022 16:26:48 AutomationLog : PASS
+16/06/2022 16:26:48 AutomationLog : Verifying DELETETOCONFIRM_CONTENT Text on the Page
+16/06/2022 16:26:50 AutomationLog : Actual is-> Type DELETE to confirm AND Expected is->Type DELETE to confirm
+16/06/2022 16:26:50 AutomationLog : PASS
+16/06/2022 16:26:50 AutomationLog : Performing Click action on YESDELETEIT_BUTTON
+16/06/2022 16:26:53 AutomationLog : PASS
+16/06/2022 16:26:53 AutomationLog : Waiting for DELETE_VALIDATIONMESSAGE element to Appear.
+16/06/2022 16:26:53 AutomationLog : Waiting for Max 60 seconds to Appear DELETE_VALIDATIONMESSAGE Element which may NOT Present on Page
+16/06/2022 16:26:53 AutomationLog : DELETE_VALIDATIONMESSAGE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:26:53 AutomationLog : PASS
+16/06/2022 16:26:53 AutomationLog : Verifying DELETE_VALIDATIONMESSAGE Text on the Page
+16/06/2022 16:26:55 AutomationLog : Actual is-> You must type 'DELETE' to delete this AND Expected is->You must type 'DELETE' to delete this
+16/06/2022 16:26:55 AutomationLog : PASS
+16/06/2022 16:26:55 AutomationLog : Entering: "DELETE" text in ERROR_DELETE_TEXTFIELD Field
+16/06/2022 16:26:59 AutomationLog : PASS
+16/06/2022 16:26:59 AutomationLog : Performing Click action on YESDELETEIT_BUTTON
+16/06/2022 16:27:02 AutomationLog : PASS
+16/06/2022 16:27:02 AutomationLog : Waiting for Page to load.
+16/06/2022 16:27:04 AutomationLog : PASS
+16/06/2022 16:27:04 AutomationLog : Waiting for NOQUEUES_TEXT element to Appear.
+16/06/2022 16:27:04 AutomationLog : Waiting for Max 60 seconds to Appear NOQUEUES_TEXT Element which may NOT Present on Page
+16/06/2022 16:27:04 AutomationLog : NOQUEUES_TEXT Element is Now Present on Page, Moving Ahead
+16/06/2022 16:27:04 AutomationLog : PASS
+16/06/2022 16:27:04 AutomationLog : Verifying NOQUEUES_TEXT Text on the Page
+16/06/2022 16:27:06 AutomationLog : Actual is-> No Queues AND Expected is->No Queues
+16/06/2022 16:27:06 AutomationLog : PASS
+16/06/2022 16:27:06 AutomationLog : TestCase is Ending
+16/06/2022 16:27:06 AutomationLog : TEST SCRIPT:=> VWR_01_Verify_QueueCreateUpdateDelete Has PASSED************
+16/06/2022 16:27:11 AutomationLog : PASS
+16/06/2022 16:27:12 AutomationLog : =========================================================
+16/06/2022 16:27:12 AutomationLog : Executing---VWR_02_Verify_ResponderCreationUpdationDeletion Test Case
+16/06/2022 16:27:12 AutomationLog : Navigating to (https://v2solutions-alpha.visionable.com/) Site
+16/06/2022 16:27:19 AutomationLog : Opening: CHROME 102.0.5005.115 Browser
+16/06/2022 16:27:24 AutomationLog : No Opened Browser Available, Opening New one
+16/06/2022 16:27:29 AutomationLog : PASS
+16/06/2022 16:27:29 AutomationLog : Waiting for CREATEACCOUNT_LINK element to Appear.
+16/06/2022 16:27:29 AutomationLog : Waiting for Max 60 seconds to Appear CREATEACCOUNT_LINK Element which may NOT Present on Page
+16/06/2022 16:27:29 AutomationLog : CREATEACCOUNT_LINK Element is Now Present on Page, Moving Ahead
+16/06/2022 16:27:29 AutomationLog : PASS
+16/06/2022 16:27:29 AutomationLog : Entering: "odosmith@yopmail.com" text in USERNAME_TEXTFIELD Field
+16/06/2022 16:27:33 AutomationLog : PASS
+16/06/2022 16:27:33 AutomationLog : Entering: "Test@12345" text in PASSWORD_TEXTFIELD Field
+16/06/2022 16:27:37 AutomationLog : PASS
+16/06/2022 16:27:37 AutomationLog : Performing Click action on LOGIN_BUTTON
+16/06/2022 16:27:43 AutomationLog : PASS
+16/06/2022 16:27:43 AutomationLog : Waiting for WELCOMEMESSAGE_HEADER element to Appear.
+16/06/2022 16:27:43 AutomationLog : Waiting for Max 60 seconds to Appear WELCOMEMESSAGE_HEADER Element which may NOT Present on Page
+16/06/2022 16:27:43 AutomationLog : WELCOMEMESSAGE_HEADER Element is Now Present on Page, Moving Ahead
+16/06/2022 16:27:43 AutomationLog : PASS
+16/06/2022 16:27:43 AutomationLog : Performing Click action on RESPONDERMANAGER_LINK
+16/06/2022 16:27:51 AutomationLog : PASS
+16/06/2022 16:27:51 AutomationLog : Waiting for RESONDERMANAGER_HEADER element to Appear.
+16/06/2022 16:27:51 AutomationLog : Waiting for Max 60 seconds to Appear RESONDERMANAGER_HEADER Element which may NOT Present on Page
+16/06/2022 16:27:51 AutomationLog : RESONDERMANAGER_HEADER Element is Now Present on Page, Moving Ahead
+16/06/2022 16:27:51 AutomationLog : PASS
+16/06/2022 16:27:51 AutomationLog : Verifying RESONDERMANAGER_HEADER Text on the Page
+16/06/2022 16:27:53 AutomationLog : Actual is-> Responder Manager AND Expected is->Responder Manager
+16/06/2022 16:27:53 AutomationLog : PASS
+16/06/2022 16:27:53 AutomationLog : Performing Click action on NEWRESPONDER_BUTTON
+16/06/2022 16:27:56 AutomationLog : PASS
+16/06/2022 16:27:56 AutomationLog : Waiting for NEWRESPONDER_TITLE element to Appear.
+16/06/2022 16:27:56 AutomationLog : Waiting for Max 60 seconds to Appear NEWRESPONDER_TITLE Element which may NOT Present on Page
+16/06/2022 16:27:56 AutomationLog : NEWRESPONDER_TITLE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:27:56 AutomationLog : PASS
+16/06/2022 16:27:56 AutomationLog : Verifying NEWRESPONDER_TITLE Text on the Page
+16/06/2022 16:27:58 AutomationLog : Actual is-> New Responder AND Expected is->New Responder
+16/06/2022 16:27:58 AutomationLog : PASS
+16/06/2022 16:27:58 AutomationLog : Performing Click action on SAVE_BUTTON
+16/06/2022 16:28:01 AutomationLog : PASS
+16/06/2022 16:28:01 AutomationLog : Waiting for UMUSTSPECIFYQUEUE_VALIDMESSAGE element to Appear.
+16/06/2022 16:28:01 AutomationLog : Waiting for Max 60 seconds to Appear UMUSTSPECIFYQUEUE_VALIDMESSAGE Element which may NOT Present on Page
+16/06/2022 16:28:01 AutomationLog : UMUSTSPECIFYQUEUE_VALIDMESSAGE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:28:01 AutomationLog : PASS
+16/06/2022 16:28:01 AutomationLog : Verifying UMUSTSPECIFYQUEUE_VALIDMESSAGE Text on the Page
+16/06/2022 16:28:04 AutomationLog : Actual is-> You must specify a Queue AND Expected is->You must specify a Queue
+16/06/2022 16:28:04 AutomationLog : PASS
+16/06/2022 16:28:04 AutomationLog : Performing Click action on SPECIFYQUEUE_OK_BUTTON
+16/06/2022 16:28:06 AutomationLog : PASS
+16/06/2022 16:28:06 AutomationLog : Waiting for NEWRESPONDER_TITLE element to Appear.
+16/06/2022 16:28:06 AutomationLog : Waiting for Max 60 seconds to Appear NEWRESPONDER_TITLE Element which may NOT Present on Page
+16/06/2022 16:28:07 AutomationLog : NEWRESPONDER_TITLE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:28:07 AutomationLog : PASS
+16/06/2022 16:28:07 AutomationLog : Performing Click action on QUEUE_ARROWDOWN_BUTTON
+16/06/2022 16:28:08 AutomationLog : PASS
+16/06/2022 16:28:08 AutomationLog : Performing the enter action 
+16/06/2022 16:28:08 AutomationLog : PASS
+16/06/2022 16:28:08 AutomationLog : Performing Click action on SAVE_BUTTON
+16/06/2022 16:28:11 AutomationLog : PASS
+16/06/2022 16:28:11 AutomationLog : Waiting for RESPNAMECANTBLANK_VALIDMESSAGE element to Appear.
+16/06/2022 16:28:11 AutomationLog : Waiting for Max 60 seconds to Appear RESPNAMECANTBLANK_VALIDMESSAGE Element which may NOT Present on Page
+16/06/2022 16:28:11 AutomationLog : RESPNAMECANTBLANK_VALIDMESSAGE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:28:11 AutomationLog : PASS
+16/06/2022 16:28:11 AutomationLog : Verifying RESPNAMECANTBLANK_VALIDMESSAGE Text on the Page
+16/06/2022 16:28:14 AutomationLog : Actual is-> Responder name cannot be blank AND Expected is->Responder name cannot be blank
+16/06/2022 16:28:14 AutomationLog : PASS
+16/06/2022 16:28:14 AutomationLog : Performing Click action on QUEUE_OK_BUTTON
+16/06/2022 16:28:16 AutomationLog : PASS
+16/06/2022 16:28:16 AutomationLog : Waiting for NEWRESPONDER_TITLE element to Appear.
+16/06/2022 16:28:16 AutomationLog : Waiting for Max 60 seconds to Appear NEWRESPONDER_TITLE Element which may NOT Present on Page
+16/06/2022 16:28:16 AutomationLog : NEWRESPONDER_TITLE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:28:16 AutomationLog : PASS
+16/06/2022 16:28:16 AutomationLog : Entering: "Mr.John" text in RESPONDERNAME_TEXTFIELD Field
+16/06/2022 16:28:20 AutomationLog : PASS
+16/06/2022 16:28:20 AutomationLog : Entering: "Desc" text in RESPONDERDESC_TEXTFIEKLD Field
+16/06/2022 16:28:23 AutomationLog : PASS
+16/06/2022 16:28:23 AutomationLog : Entering: "v2.visionable@gmail.com" text in RESPONDEREMIAL_TEXTFIELD Field
+16/06/2022 16:28:29 AutomationLog : PASS
+16/06/2022 16:28:29 AutomationLog : Verifying RESPONDERMODE_TEXT Text on the Page
+16/06/2022 16:28:31 AutomationLog : Actual is-> Create a new meeting every join AND Expected is->Create a new meeting every join
+16/06/2022 16:28:31 AutomationLog : PASS
+16/06/2022 16:28:31 AutomationLog : Selecting : Existing from the Dropdown
+16/06/2022 16:28:34 AutomationLog : PASS
+16/06/2022 16:28:34 AutomationLog : Verifying RESPONDERMODE_TEXT Text on the Page
+16/06/2022 16:28:36 AutomationLog : Actual is-> If a meeting exists, join it. Otherwise, create a new one AND Expected is->If a meeting exists, join it. Otherwise, create a new one
+16/06/2022 16:28:36 AutomationLog : PASS
+16/06/2022 16:28:36 AutomationLog : Performing Click action on SAVE_BUTTON
+16/06/2022 16:28:39 AutomationLog : PASS

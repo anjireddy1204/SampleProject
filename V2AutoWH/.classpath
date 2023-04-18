@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/ATUTestRecorder_2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/browsermob-dist-2.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/bsh-2.0b4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/bson-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/commons-codec-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/commons-lang3-3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/dom4j-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/extentreports-3.1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/freemarker-2.3.23.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/groovy-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/groovy-json-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/groovy-xml-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/gson-2.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/gson-2.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/hamcrest-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/harlib-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/harlib-jackson-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/httpclient-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/httpclient-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/httpcore-4.4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/httpcore-4.4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/httpmime-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/httpmime-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/jaxb-impl-2.3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/jcommander-1.48.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/json-simple-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/jsoup-1.7.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/jsoup-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/klov-0.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/log4j-1.2.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/mongodb-driver-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/mongo-java-driver-3.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/mysql-connector-java-5.1.32-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/ngwebdriver-0.9.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/pdfbox-2.0.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/poi-3.8-beta3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/poi-ooxml-3.8-beta3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/poi-ooxml-schemas-3.8-beta4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/rest-assured-4.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/saxon-8.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/SaxonLiaison.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/tagsoup-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/testng-6.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/validation-api-1.0.0.GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/V2AutoWH/sysfiles/jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

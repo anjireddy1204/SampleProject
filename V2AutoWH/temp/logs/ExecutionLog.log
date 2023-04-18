@@ -1,0 +1,90 @@
+16/06/2022 16:46:12 AutomationLog INFO:=> Initializing keywords
+16/06/2022 16:46:12 AutomationLog : =========================================================
+16/06/2022 16:46:12 AutomationLog : Executing---VWR_02_Verify_ResponderCreationUpdationDeletion Test Case
+16/06/2022 16:46:12 AutomationLog : Navigating to (https://v2solutions-alpha.visionable.com/) Site
+16/06/2022 16:46:12 AutomationLog : No Opened Browser Available, Opening New one
+16/06/2022 16:46:18 AutomationLog : Opening: CHROME 102.0.5005.115 Browser
+16/06/2022 16:46:27 AutomationLog : PASS
+16/06/2022 16:46:27 AutomationLog : Waiting for CREATEACCOUNT_LINK element to Appear.
+16/06/2022 16:46:27 AutomationLog : Waiting for Max 60 seconds to Appear CREATEACCOUNT_LINK Element which may NOT Present on Page
+16/06/2022 16:46:27 AutomationLog : CREATEACCOUNT_LINK Element is Now Present on Page, Moving Ahead
+16/06/2022 16:46:27 AutomationLog : PASS
+16/06/2022 16:46:27 AutomationLog : Entering: "odosmith@yopmail.com" text in USERNAME_TEXTFIELD Field
+16/06/2022 16:46:31 AutomationLog : PASS
+16/06/2022 16:46:31 AutomationLog : Entering: "Test@12345" text in PASSWORD_TEXTFIELD Field
+16/06/2022 16:46:35 AutomationLog : PASS
+16/06/2022 16:46:35 AutomationLog : Performing Click action on LOGIN_BUTTON
+16/06/2022 16:46:40 AutomationLog : PASS
+16/06/2022 16:46:40 AutomationLog : Waiting for WELCOMEMESSAGE_HEADER element to Appear.
+16/06/2022 16:46:40 AutomationLog : Waiting for Max 60 seconds to Appear WELCOMEMESSAGE_HEADER Element which may NOT Present on Page
+16/06/2022 16:46:40 AutomationLog : WELCOMEMESSAGE_HEADER Element is Now Present on Page, Moving Ahead
+16/06/2022 16:46:40 AutomationLog : PASS
+16/06/2022 16:46:40 AutomationLog : Performing Click action on RESPONDERMANAGER_LINK
+16/06/2022 16:46:50 AutomationLog : PASS
+16/06/2022 16:46:50 AutomationLog : Waiting for RESONDERMANAGER_HEADER element to Appear.
+16/06/2022 16:46:50 AutomationLog : Waiting for Max 60 seconds to Appear RESONDERMANAGER_HEADER Element which may NOT Present on Page
+16/06/2022 16:46:50 AutomationLog : RESONDERMANAGER_HEADER Element is Now Present on Page, Moving Ahead
+16/06/2022 16:46:50 AutomationLog : PASS
+16/06/2022 16:46:50 AutomationLog : Verifying RESONDERMANAGER_HEADER Text on the Page
+16/06/2022 16:46:52 AutomationLog : Actual is-> Responder Manager AND Expected is->Responder Manager
+16/06/2022 16:46:52 AutomationLog : PASS
+16/06/2022 16:46:52 AutomationLog : Performing Click action on NEWRESPONDER_BUTTON
+16/06/2022 16:46:55 AutomationLog : PASS
+16/06/2022 16:46:55 AutomationLog : Waiting for NEWRESPONDER_TITLE element to Appear.
+16/06/2022 16:46:55 AutomationLog : Waiting for Max 60 seconds to Appear NEWRESPONDER_TITLE Element which may NOT Present on Page
+16/06/2022 16:46:55 AutomationLog : NEWRESPONDER_TITLE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:46:55 AutomationLog : PASS
+16/06/2022 16:46:55 AutomationLog : Verifying NEWRESPONDER_TITLE Text on the Page
+16/06/2022 16:46:58 AutomationLog : Actual is-> New Responder AND Expected is->New Responder
+16/06/2022 16:46:58 AutomationLog : PASS
+16/06/2022 16:46:58 AutomationLog : Performing Click action on SAVE_BUTTON
+16/06/2022 16:47:00 AutomationLog : PASS
+16/06/2022 16:47:00 AutomationLog : Waiting for UMUSTSPECIFYQUEUE_VALIDMESSAGE element to Appear.
+16/06/2022 16:47:00 AutomationLog : Waiting for Max 60 seconds to Appear UMUSTSPECIFYQUEUE_VALIDMESSAGE Element which may NOT Present on Page
+16/06/2022 16:47:00 AutomationLog : UMUSTSPECIFYQUEUE_VALIDMESSAGE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:47:00 AutomationLog : PASS
+16/06/2022 16:47:00 AutomationLog : Verifying UMUSTSPECIFYQUEUE_VALIDMESSAGE Text on the Page
+16/06/2022 16:47:03 AutomationLog : Actual is-> You must specify a Queue AND Expected is->You must specify a Queue
+16/06/2022 16:47:03 AutomationLog : PASS
+16/06/2022 16:47:03 AutomationLog : Performing Click action on SPECIFYQUEUE_OK_BUTTON
+16/06/2022 16:47:05 AutomationLog : PASS
+16/06/2022 16:47:05 AutomationLog : Waiting for NEWRESPONDER_TITLE element to Appear.
+16/06/2022 16:47:05 AutomationLog : Waiting for Max 60 seconds to Appear NEWRESPONDER_TITLE Element which may NOT Present on Page
+16/06/2022 16:47:05 AutomationLog : NEWRESPONDER_TITLE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:47:05 AutomationLog : PASS
+16/06/2022 16:47:05 AutomationLog : Performing Click action on QUEUE_ARROWDOWN_BUTTON
+16/06/2022 16:47:07 AutomationLog : PASS
+16/06/2022 16:47:07 AutomationLog : Performing the enter action 
+16/06/2022 16:47:07 AutomationLog : PASS
+16/06/2022 16:47:07 AutomationLog : Performing Click action on SAVE_BUTTON
+16/06/2022 16:47:10 AutomationLog : PASS
+16/06/2022 16:47:10 AutomationLog : Waiting for RESPNAMECANTBLANK_VALIDMESSAGE element to Appear.
+16/06/2022 16:47:10 AutomationLog : Waiting for Max 60 seconds to Appear RESPNAMECANTBLANK_VALIDMESSAGE Element which may NOT Present on Page
+16/06/2022 16:47:10 AutomationLog : RESPNAMECANTBLANK_VALIDMESSAGE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:47:10 AutomationLog : PASS
+16/06/2022 16:47:10 AutomationLog : Verifying RESPNAMECANTBLANK_VALIDMESSAGE Text on the Page
+16/06/2022 16:47:12 AutomationLog : Actual is-> Responder name cannot be blank AND Expected is->Responder name cannot be blank
+16/06/2022 16:47:12 AutomationLog : PASS
+16/06/2022 16:47:12 AutomationLog : Performing Click action on QUEUE_OK_BUTTON
+16/06/2022 16:47:15 AutomationLog : PASS
+16/06/2022 16:47:15 AutomationLog : Waiting for NEWRESPONDER_TITLE element to Appear.
+16/06/2022 16:47:15 AutomationLog : Waiting for Max 60 seconds to Appear NEWRESPONDER_TITLE Element which may NOT Present on Page
+16/06/2022 16:47:15 AutomationLog : NEWRESPONDER_TITLE Element is Now Present on Page, Moving Ahead
+16/06/2022 16:47:15 AutomationLog : PASS
+16/06/2022 16:47:15 AutomationLog : Entering: "M.AutoJohn" text in RESPONDERNAME_TEXTFIELD Field
+16/06/2022 16:47:19 AutomationLog : PASS
+16/06/2022 16:47:19 AutomationLog : Entering: "Desc" text in RESPONDERDESC_TEXTFIEKLD Field
+16/06/2022 16:47:23 AutomationLog : PASS
+16/06/2022 16:47:23 AutomationLog : Entering: "v2.visionable@gmail.com" text in RESPONDEREMIAL_TEXTFIELD Field
+16/06/2022 16:47:28 AutomationLog : PASS
+16/06/2022 16:47:28 AutomationLog : Verifying RESPONDERMODE_TEXT Text on the Page
+16/06/2022 16:47:30 AutomationLog : Actual is-> Create a new meeting every join AND Expected is->Create a new meeting every join
+16/06/2022 16:47:30 AutomationLog : PASS
+16/06/2022 16:47:30 AutomationLog : Selecting : Existing from the Dropdown
+16/06/2022 16:47:33 AutomationLog : PASS
+16/06/2022 16:47:33 AutomationLog : Verifying RESPONDERMODE_TEXT Text on the Page
+16/06/2022 16:47:35 AutomationLog : Actual is-> If a meeting exists, join it. Otherwise, create a new one AND Expected is->If a meeting exists, join it. Otherwise, create a new one
+16/06/2022 16:47:35 AutomationLog : PASS
+16/06/2022 16:47:35 AutomationLog : Performing Click action on SAVE_BUTTON
+16/06/2022 16:47:38 AutomationLog : PASS
+16/06/2022 16:47:38 AutomationLog : Waiting for Page to load.

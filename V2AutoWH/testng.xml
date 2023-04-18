@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression">
+<parameter name="Suite-Name" value="VWR--Visionable_Regression_CH"/>
+<test name="VWR_01_Verify_QueueCreateUpdateDelete">
+<classes>
+<class name="in.v2solutions.hybrid.testcases.VWR_01_Verify_QueueCreateUpdateDelete"></class>
+</classes>
+</test>
+<test name="VWR_02_Verify_ResponderCreationUpdationDeletion">
+<classes>
+<class name="in.v2solutions.hybrid.testcases.VWR_02_Verify_ResponderCreationUpdationDeletion"></class>
+</classes>
+</test>
+<test name="VWR_04_Verify_AppointmentCreationUpdationDeletion">
+<classes>
+<class name="in.v2solutions.hybrid.testcases.VWR_04_Verify_AppointmentCreationUpdationDeletion"></class>
+</classes>
+</test>
+</suite>
