@@ -4609,6 +4609,7 @@ public class Keywords extends Constants {
 
 			if (root.isEnabled()) {
 				System.out.println(": Button present in enable mode : " + root.getText());
+				System.out.println(": Button present in enable mode : " + root.getText());
 				APP_LOGS.debug(": Button present in enable mode : " + root.getText());
 				test.pass(": Button present in enable mode : " + root.getText());
 			} else {
@@ -4840,6 +4841,7 @@ public class Keywords extends Constants {
 				returnElementIfPresent("NEXT_PAGE").click();
 			}
 		} catch (Exception e) {
+			System.out.println("Exception: " + e.getMessage());
 			System.out.println("Exception: " + e.getMessage());
 			captureScreenShot = true;
 			test.log(Status.ERROR, "ERROR : Not able to Verify " + inputData + " ColumnData");
