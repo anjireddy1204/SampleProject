@@ -5571,6 +5571,7 @@ public class Keywords extends Constants {
 				highlight = true;
 				captureScreenShot = true;
 				System.out.println(": Actual is-> " + actText + " AND Expected is-> " + expText);
+				System.out.println(": Actual is-> " + actText + " AND Expected is-> " + expText);
 				test.fail(" FAIL : Actual is-> " + actText + " AND Expected is-> " + expText);
 				return "FAIL - Actual is-> " + actText + " AND Expected is-> " + expText;
 			}
